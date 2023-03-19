@@ -1,0 +1,15 @@
+{
+  "name": "random-phrases-selfesteem",
+  "version": "1.0.0",
+  "description": "Creación de un paquete para publicarlo en NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jackeline Puruaya",
+  "license": "MIT",
+  "bin":{
+    "random-phrases-selfesteem":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
