@@ -8,8 +8,8 @@
   },
   "author": "Jackeline Puruaya",
   "license": "MIT",
-  "bin":{
-    "random-phrases-selfesteem":"./bin/global.js"
+  "bin": {
+    "random-phrases-selfesteem": "./bin/global.js"
   },
   "preferGlobal": true
 }
